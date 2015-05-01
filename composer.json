@@ -1,0 +1,22 @@
+{
+	"name":			"donwilson/distynct",
+	"homepage":		"http://pyxol.com/",
+	"type":			"library",
+	"license":		"MIT",
+	
+	"authors":		[
+		{
+			"name":		"Don Wilson",
+			"email":	"donwilson@gmail.com",
+			"homepage":	"http://pyxol.com/",
+			"role":		"Developer"
+		}
+	],
+	
+	"require":		{
+		"php": ">=5.4.0",
+		
+		"ext-memcache":	"*",
+	}
+}
+
