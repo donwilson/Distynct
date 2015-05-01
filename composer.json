@@ -1,5 +1,7 @@
 {
 	"name":			"donwilson/distynct",
+	"description":	"Website engine",
+	"keywords":		["php", "engine"],
 	"homepage":		"http://pyxol.com/",
 	"type":			"library",
 	"license":		"MIT",
@@ -16,7 +18,6 @@
 	"require":		{
 		"php": ">=5.4.0",
 		
-		"ext-memcache":	"*",
+		"ext-memcache":	"*"
 	}
 }
-
